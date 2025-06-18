@@ -2,7 +2,7 @@
 
 This documentation outlines four successfully resolved IT support tickets processed through the internal ticketing system. Each summary includes the issue reported, a high-level overview of the solution, and a link to detailed documentation.
 
-🟢 Ticket 14:  Shared Drives
+## 🟢 Ticket 14:  Shared Drives
 
 Summary:
 
