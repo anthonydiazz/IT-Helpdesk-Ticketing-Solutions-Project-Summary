@@ -20,7 +20,7 @@ User requested access to two shared drives — one personal and one department-s
 
 
 
-🟢 Ticket 15: PDF Files Not Opening
+## 🟢 Ticket 15: PDF Files Not Opening
 
 Summary:
 User couldn’t open PDF files as no appropriate program was installed.
@@ -41,7 +41,7 @@ View Ticket 15: 🔗 [ Go to Ticket 15 : PDF Files Not Opening](https://github.c
 
 
 
-Ticket 16: Desktop Folder Redirection
+## 🟢Ticket 16: Desktop Folder Redirection
 
 Summary:
 
@@ -57,8 +57,10 @@ User asked for anything saved on their Desktop to automatically route to their p
 
 - Running gpupdate /force and resolving permission issues on the folder.
 
+View Ticket 16: 🔗 [ Go to Ticket 16 : Desktop Folder Redirection](https://github.com/anthonydiazz/Redirect_Desktop)
 
-🟢 Ticket 17: Recover Deleted Files
+
+## 🟢 Ticket 17: Recover Deleted Files
 
 Summary:
 
@@ -72,3 +74,4 @@ User accidentally deleted a folder from their redirected Desktop.
 
 - Restoring a previous version of the Desktop folder using Previous Versions.
 
+View Ticket 17: 🔗 [ Go to Ticket 17 : Recover Deleted Files](https://github.com/anthonydiazz/Deleted_files)
